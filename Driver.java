@@ -1,7 +1,7 @@
 public class Driver extends User{
     private int startX;
     private int startY;
-
+    
     public int getStartX(){
         return startX;
     }
