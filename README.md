@@ -149,7 +149,7 @@ This class imports the java.util.Random to generate random coordinates for drive
 
 - **CommandController:**
 
-		This is a class that kinda runs the whole program. It only has one method called run.
+	This is a class that kinda runs the whole program. It only has one method called run.
 
 **List of methods:**
 
